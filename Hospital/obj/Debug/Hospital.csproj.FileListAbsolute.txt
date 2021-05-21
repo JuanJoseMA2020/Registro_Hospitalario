@@ -1,0 +1,66 @@
+C:\Freddy_MC\Hospital\Hospital\bin\ApplicationInsights.config
+C:\Freddy_MC\Hospital\Hospital\bin\roslyn\csc.exe
+C:\Freddy_MC\Hospital\Hospital\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Freddy_MC\Hospital\Hospital\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Freddy_MC\Hospital\Hospital\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Freddy_MC\Hospital\Hospital\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Freddy_MC\Hospital\Hospital\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Freddy_MC\Hospital\Hospital\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Freddy_MC\Hospital\Hospital\bin\roslyn\System.Collections.Immutable.dll
+C:\Freddy_MC\Hospital\Hospital\bin\roslyn\System.Reflection.Metadata.dll
+C:\Freddy_MC\Hospital\Hospital\bin\roslyn\vbc.exe
+C:\Freddy_MC\Hospital\Hospital\bin\roslyn\VBCSCompiler.exe
+C:\Freddy_MC\Hospital\Hospital\bin\roslyn\VBCSCompiler.exe.config
+C:\Freddy_MC\Hospital\Hospital\bin\Hospital.dll.config
+C:\Freddy_MC\Hospital\Hospital\bin\Hospital.dll
+C:\Freddy_MC\Hospital\Hospital\bin\Hospital.pdb
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.AI.DependencyCollector.dll
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.AI.Web.dll
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.AI.WindowsServer.dll
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.ApplicationInsights.dll
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.AI.DependencyCollector.xml
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.AI.Web.xml
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.AI.WindowsServer.xml
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.ApplicationInsights.xml
+C:\Freddy_MC\Hospital\Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Freddy_MC\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Freddy_MC\Hospital\Hospital\obj\Debug\Hospital.dll
+C:\Freddy_MC\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\obj\Debug\Hospital.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\ApplicationInsights.config
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\roslyn\csc.exe
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\roslyn\vbc.exe
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Hospital.dll.config
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Hospital.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Hospital.pdb
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.AI.Web.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.AI.Web.xml
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Juan Diego\Downloads\Hospital\Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
